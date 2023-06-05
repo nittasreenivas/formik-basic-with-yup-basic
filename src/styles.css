@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+  border: 3px solid red;
+}
+.vasu {
+  padding: 10px;
+  margin: 10px;
+  border: 3px solid green;
+}
+
+.err {
+  color: red;
+}
+
+.sree {
+  margin: 10px;
+  padding: 15px;
+  border: 3px solid black;
+}
